@@ -1,5 +1,5 @@
 # Missmaiden
-A very kind program made in C++ that opens up programs for you!
+A very kind CLI program made in C++ that opens up programs for you!
 
 Made in C++, missmaiden (very creative name) manages to open up applications faster than I could do! I know this may sound useless, but once I manage to make it open more apps at once will show how good of a time-saver will be!
 
